@@ -1,3 +1,5 @@
 ./Auto-startup.bat
-./gitignore
+./.gitignore
 ./docs
+./typos-paths.txt
+./config.ini
