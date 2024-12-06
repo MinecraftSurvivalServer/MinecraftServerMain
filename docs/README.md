@@ -6,6 +6,7 @@
 **Default Branch Status** <br>
 [![CodeQL](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql)
 [![Spell Check with Typos](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml/badge.svg)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml)
+
 ご覧いただきありがとうございます。このREADMEは一般参加者などに向けて作成しています。開発者の方は合わせて[開発者README](DEV-README.md)をご覧ください。
 
 ## 環境
