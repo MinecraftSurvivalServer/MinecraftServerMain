@@ -1,0 +1,4 @@
+./Auto-startup.bat
+./docs
+./typos-paths.txt
+./config.ini

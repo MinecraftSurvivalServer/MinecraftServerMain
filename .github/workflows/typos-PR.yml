@@ -1,0 +1,25 @@
+name: Spell Check with Typos
+# on: [pull_request, push]
+# PRのみ実行
+on: [pull_request]
+
+jobs:
+  run:
+    name: Spell Check with Typos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Read paths from config file
+        id: read_paths
+        run: |
+          # Read the paths from typos-paths.txt and convert them into a space-separated string
+          paths=$(cat typos-paths.txt | tr '\n' ' ')
+          echo "paths=$paths" >> $GITHUB_ENV
+
+      - name: Check spelling of files
+        uses: crate-ci/typos@master
+        with:
+          # VScode だと黄色エラー 実行に問題は無い
+          files: ${{ env.paths }}
