@@ -1,0 +1,3 @@
+./Auto-startup.bat
+./gitignore
+./docs
