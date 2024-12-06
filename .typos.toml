@@ -1,0 +1,11 @@
+[files]
+extend-exclude = [
+  "*.svg",
+  "*node_modules",
+]
+
+[default.extend-words] # 単語除外
+# accessable = "accessable"
+# activ = "activ"
+
+Paket = "Paket"
