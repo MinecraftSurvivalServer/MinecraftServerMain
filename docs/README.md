@@ -2,8 +2,12 @@
 <!-- tagの設定前にしっかりmergeしたか確認！！！！！！ -->
 ### **[EN is here!](EN/README_EN.md)**
 
-ご覧いただきありがとうございます。このREADMEは一般参加者などに向けて作成しています。開発者の方は合わせて[開発者README](DEV-README.md)をご覧ください。
+### Minecraft Server
+**Default Branch Status** <br>
+[![CodeQL](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql)
+[![Spell Check with Typos](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml/badge.svg)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml)
 
+ご覧いただきありがとうございます。このREADMEは一般参加者などに向けて作成しています。開発者の方は合わせて[開発者README](DEV-README.md)をご覧ください。
 
 ## 環境
 <img src="https://img.shields.io/badge/Java-21.0.1%20LTS-007396.svg?logo=java&style=popout">
