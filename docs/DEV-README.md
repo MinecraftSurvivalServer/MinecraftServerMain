@@ -1,6 +1,13 @@
 # Minecraft Server | DEV-README
 <!-- tagの設定前にしっかりmergeしたか確認！！！！！！ -->
 ### **[EN is here!](EN/DEV-README_EN.md)**
+### Minecraft Server
+**Default Branch Status** <br>
+[![CodeQL](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql)
+[![Spell Check with Typos](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml/badge.svg)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml) <br>
+**DEV Branch Status** <br>
+[![CodeQL](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql/badge.svg?branch=DEV-main)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/github-code-scanning/codeql)
+[![Spell Check with Typos](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml/badge.svg?branch=DEV-main)](https://github.com/MinecraftSurvivalServer/MinecraftServerMain/actions/workflows/typos-PR.yml)
 
 こんにちは。こちらは、デベロッパー向けのREADMEとなります。
 [一般向けはコチラ！](README.md)
